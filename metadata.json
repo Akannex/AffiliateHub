@@ -1,0 +1,6 @@
+
+{
+  "name": "MyAffiliateHub",
+  "description": "Hệ thống Bio Link tối ưu Affiliate Marketing với cơ sở dữ liệu PostgreSQL và Prisma ORM.",
+  "requestFramePermissions": []
+}
